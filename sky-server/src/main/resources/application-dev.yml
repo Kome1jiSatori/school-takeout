@@ -12,3 +12,7 @@ sky:
     access-key-secret: 
     bucket-name: sky-take-out-bu
 
+  redis:
+    host: localhost
+    port: 6379
+    database: 0
